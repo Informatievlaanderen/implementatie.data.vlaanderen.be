@@ -9,7 +9,9 @@
   "generatedrepository" : {
 	  "organisation": "GitHubOrganisation",
 	  "repository" : "GeneratedRepository",
-	  "private" : false
+	  "private" : false,
+	  "gitEmail" : "toolchain@dev.specs.org",
+	  "gitUser" : "toolchain"
   },
   "toolchainversion" : "3.0.5",
   "toolchain" : {

@@ -59,9 +59,11 @@ This has to be executed for each private repository.
   "publicationpoints" : ["dev"],        -- The directories from which the publication points are to be published
                                         -- For a suggested organisation and usage see below in the Editors section.
   "generatedrepository" : {             -- The target repository to which the toolchain will write its generated artifacts
-	  "organisation": "GitHubOrganisation",                -- the organisation in github
-	  "repository" : "GeneratedRepository",  -- the repository in the organisation
-	  "private" : true                          -- whether or not the repository is private.
+	  "organisation": "GitHubOrganisation",       -- the organisation in github
+	  "repository" : "GeneratedRepository",       -- the repository in the organisation
+	  "private" : true,                           -- whether or not the repository is private.
+	  "gitEmail" : "toolchain@dev.specs.org",     -- the email address to indicate who is writing to the generated repository ( to make the git client happy)
+	  "gitUser" : "toolchain"                     -- the username to indicate who is writing to the generated repository (to make the git client happy)
   },
   "toolchainversion" : "3",             -- The toolchain version that is deployed, only adapt in case of toolchain management
   "toolchain" : {
