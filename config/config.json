@@ -1,16 +1,16 @@
 {
-  "primeLanguage": "en",
+  "primeLanguage": "nl",
   "otherLanguages": [
-    "fr", "de"
+    "en", "fr", "de"
   ],
-  "hostname": "https://dev.specs.org/",
-  "domain": "data.spec.org",
+  "hostname": "https://implementatie.data.vlaanderen.be/",
+  "domain": "implementatie.data.vlaanderen.be",
   "publicationpoints" : ["dev"],
   "generatedrepository" : {
-	  "organisation": "GitHubOrganisation",
-	  "repository" : "GeneratedRepository",
-	  "private" : false,
-	  "gitEmail" : "toolchain@dev.specs.org",
+	  "organisation": "informatievlaanderen",
+	  "repository" : "implementatie.data.vlaanderen.be-generated",
+	  "private" : true,
+	  "gitEmail" : "toolchain@data.vlaanderen.be",
 	  "gitUser" : "toolchain"
   },
   "toolchainversion" : "3.0.5",
