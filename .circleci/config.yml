@@ -467,8 +467,10 @@ jobs:
           name: Push results to github
           workdir: /tmp/generated
           command: |
-            export EMAIL=$(jq -r .generatedrepository.gitEmail $PWD/config/config.json)
-            export USER=$(jq -r .generatedrepository.gitUser $PWD/config/config.json)
+            # expand the tilde first
+            export CIRCLEWKD=$( eval echo "${CIRCLE_WORKING_DIRECTORY}" )
+            export EMAIL=$(jq -r .generatedrepository.gitEmail $CIRCLEWKD/config/config.json)
+            export USER=$(jq -r .generatedrepository.gitUser $CIRCLEWKD/config/config.json)
             git config user.email "${EMAIL}"
             git config user.name "${USER}"
             git add .
