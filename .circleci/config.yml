@@ -415,11 +415,10 @@ jobs:
             $PWD/scripts/update_sshconfig.sh ${GENERATEDREPO}
       - run:
           name: Checkout target repo
-          workdir: /tmp
           command: |
-            rm -rf generated
+            rm -rf /tmp/generated
             export REPO=$(jq -r .generatedrepository $PWD/config/config.json)
-            $PWD/scripts/checkoutRepoGithub.sh "${REPO}" generated ${TOOLCHAIN_TOKEN}
+            $PWD/scripts/checkoutRepoGithub.sh "${REPO}" /tmp/generated ${TOOLCHAIN_TOKEN}
       - run:
           name: clean the generated directory
           workdir: /tmp/generated
