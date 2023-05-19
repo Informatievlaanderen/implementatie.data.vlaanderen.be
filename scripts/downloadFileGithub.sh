@@ -55,7 +55,7 @@ if [ "${TOKEN}" != "" ] ; then
    STATUS=`curl -s -w "%{http_code}" -H "Authorization: token ${TOKEN}" -o ${TMPDIR}/file.out ${DOWNLOADURL}` 
    checkHTTPcode ${STATUS}
 else
-	echo "accessing public repository"
+	echo "accessing pubic repository"
    STATUS=`curl -s -w "%{http_code}" -L -o ${TMPDIR}/file.out https://github.com/${ORG}/${REPO}/raw/${BRANCHTAG}/${FILEPATH}`
    checkHTTPcode ${STATUS}
 fi
