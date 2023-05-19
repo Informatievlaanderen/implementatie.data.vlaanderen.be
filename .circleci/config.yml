@@ -4,7 +4,7 @@ commands:
 jobs:
   checkout:
     docker:
-      - image: circleci/python
+      - image: cimg/node:18.16.0
     steps:
       - checkout
 #      - add_ssh_keys:
@@ -271,8 +271,6 @@ jobs:
             - report/
   convert-json-to-ttl:
     docker:
-            #- image: circleci/ruby:2.6.5-stretch
-            #- image: circleci/ruby:3.0.2-buster
       - image: cimg/ruby:3.0.2
     steps:
       - checkout
@@ -298,7 +296,7 @@ jobs:
             - target/
   expand-links:
     docker:
-      - image: circleci/node:4.8.2
+      - image: cimg/node:18.16.0
     steps:
       - checkout
       - attach_workspace:
@@ -378,7 +376,7 @@ jobs:
             - target/
   copy-raw:
     docker:
-      - image: circleci/python
+      - image: cimg/node:18.16.0
     steps:
       - checkout
       - attach_workspace:
@@ -403,7 +401,7 @@ jobs:
       generatedReporFingerprint:
         type: string
     docker:
-      - image: circleci/node
+      - image: cimg/node:18.16.0
     steps:
       - checkout
       - attach_workspace:
