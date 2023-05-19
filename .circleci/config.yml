@@ -399,15 +399,19 @@ jobs:
           paths:
             - raw/
   create-artifact:
+    parameters:
+      generatedReporFingerprint:
+        type: string
     docker:
       - image: circleci/node
     steps:
       - checkout
       - attach_workspace:
           at: /tmp/workspace
+
       - add_ssh_keys:
           fingerprints:
-            - "02:37:d5:db:b6:3e:81:21:4c:0f:34:af:dd:50:a4:92"
+            - << parameters.generatedReporFingerprint >>
       - run:
           name: update and add extra statements of updating the ssh config for each private ssh key
           command: |
@@ -539,5 +543,6 @@ workflows:
             - render-context-details
             - render-voc-rdf
       - create-artifact:
+          generatedReporFingerprint: "02:37:d5:db:b6:3e:81:21:4c:0f:34:af:dd:50:a4:92"
           requires:
             - expand-links
