@@ -2,11 +2,22 @@
 
 ## (private) repository 'Generated'
 The repository 'Generated' is the repository in which the toolchain will write the generated artifacts.
-If this repository is private, then one should create a deploy key as described in the documentation for github.com.
-The private key should be added to circleci config in the additional ssh keys having as hostname "github.com".
-The fingerprint of this private key should be placed in the .circleci/config in the create-artifact step configuration.
-This will insert that key into the create-artifact step.
-The public key should be installed as a deploy key with read/write rights on the 'Generated' repository in github. 
+The objective is that any commit in this (publication) repository will lead to a commit in the repository 'Generated'.
+To ensure that this commit can be pushed, a deploy key with write permissions must be created in the repository 'Generated'.
+How to do that, consult the GitHub documentation. 
+Since the commit is created and pushed from the CircleCI pipeline execution, one must configure the CircleCI project for this publication repository with the deploy key.
+
+In short the steps are:
+   - initialise an ssh key for the repository 'Generated' as deploy key
+   - use the public part to create a deploy key with write permission in the repository 'Generated'
+   - add the private part to the CircleCI project as an additional ssh key having as hostname "github.com".
+   - The fingerprint of this private key should be placed in the .circleci/config in the create-artifact step configuration.
+   
+
+The last step injects the private ssh key into the create-artefact step and enable to execute write operations to the repository 'Generated'.
+
+As this is fully deploy key based, the approach is agnostic to the visibility of the repository. It works for public and private repositories.
+
 
 ## private repository 'Thema'
 When a source repository is private, then a similar approach as for the private repository 'Generated' should be followed.
