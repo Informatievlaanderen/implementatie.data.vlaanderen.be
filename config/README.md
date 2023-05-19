@@ -1,6 +1,6 @@
 # Supporting private repositories
 
-## private repository 'Generated'
+## (private) repository 'Generated'
 The repository 'Generated' is the repository in which the toolchain will write the generated artifacts.
 If this repository is private, then one should create a deploy key as described in the documentation for github.com.
 The private key should be added to circleci config in the additional ssh keys having as hostname "github.com".
@@ -62,8 +62,8 @@ This has to be executed for each private repository.
 	  "organisation": "GitHubOrganisation",       -- the organisation in github
 	  "repository" : "GeneratedRepository",       -- the repository in the organisation
 	  "private" : true,                           -- whether or not the repository is private.
-	  "gitEmail" : "toolchain@dev.specs.org",     -- the email address to indicate who is writing to the generated repository ( to make the git client happy)
-	  "gitUser" : "toolchain"                     -- the username to indicate who is writing to the generated repository (to make the git client happy)
+	  "gitEmail" : "toolchain@dev.specs.org",     -- The email of the git user that commits the change to the generated repository. Example "info@data.specs.org" 
+	  "gitUser" : "toolchain"                     -- The user name of the git user that commits the change to the generated repository Example "Circle CI Builder"
   },
   "toolchainversion" : "3",             -- The toolchain version that is deployed, only adapt in case of toolchain management
   "toolchain" : {
@@ -75,6 +75,7 @@ This has to be executed for each private repository.
 }
 ```
 
+The `gitEmail` and `gitUser` are needed to make the git client happy. They can be set to any value, as long there are technically sound. 
 
 # Editoral flow
 

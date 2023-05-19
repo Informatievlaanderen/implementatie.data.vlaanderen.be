@@ -30,3 +30,11 @@
 - make triggerall option to rebuild only the changed publication points when switched off
 - fix issues with English vocabulary template 
 - fix external dependency failure of ruby tool linkeddata by bumping the ruby image version 
+
+# version 3.0.6
+- reduced the amount of adaptations that a toolchain deployer has to do the CircleCI config:
+     - add attributes to encode information can be moved to /config/config.json
+     - add a new script to clone a repository
+- upgraded to the latest CircleCI docker base images
+ 
+   
