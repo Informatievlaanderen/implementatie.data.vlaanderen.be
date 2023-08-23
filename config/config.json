@@ -5,7 +5,7 @@
   ],
   "hostname": "https://implementatie.data.vlaanderen.be/",
   "domain": "implementatie.data.vlaanderen.be",
-  "publicationpoints" : ["dev"],
+  "publicationpoints" : ["test"],
   "generatedrepository" : {
 	  "organisation": "informatievlaanderen",
 	  "repository" : "implementatie.data.vlaanderen.be-generated",
