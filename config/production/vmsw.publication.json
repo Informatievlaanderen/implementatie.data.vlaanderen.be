@@ -6,6 +6,27 @@
     "name": "im-vmsw",
     "filename": "config/im-vmsw.json",
     "navigation": {},
-    "dummy": 25
+    "dummy": 1
+  },
+  {
+    "urlref": "/doc/implementatiemodel/vmsw/",
+    "seealso": "/doc/implementatiemodel/vmsw/ontwerpstandaard/2023-03-27",
+    "navigation": {},
+    "dummy": 1
+  },
+  {
+    "urlref": "/doc/vocabularium/vmsw/ontwerpstandaard/2023-03-27",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-vmsw",
+    "branchtag": "main",
+    "name": "voc-vmsw",
+    "filename": "config/voc-vmsw.json",
+    "navigation": {},
+    "dummy": 1
+  },
+  {
+    "urlref": "/ns/vmsw/",
+    "seealso": "/doc/vocabularium/vmsw/ontwerpstandaard/2023-03-27",
+    "navigation": {},
+    "dummy": 1
   }
 ]
