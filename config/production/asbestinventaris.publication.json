@@ -1,33 +1,33 @@
 [
   {
-    "urlref": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-03-28",
+    "urlref": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-03-29",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-asbestinventaris",
     "branchtag": "main",
     "name": "asbestinventaris",
     "filename": "config/im-asbestinventaris.json",
     "navigation": {},
     "examples" : true,
-    "dummy": 8
+    "dummy": 9
   },
   {
     "urlref": "/doc/implementatiemodel/asbestinventaris/",
-    "seealso": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-03-28",
+    "seealso": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-03-29",
     "navigation": {},
-    "dummy": 8
+    "dummy": 9
   },
   {
-    "urlref": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-03-28",
+    "urlref": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-03-29",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-asbestinventaris",
     "branchtag": "main",
     "name": "asbestinventaris",
     "filename": "config/voc-asbestinventaris.json",
     "navigation": {},
-    "dummy": 8
+    "dummy": 9
   },
   {
     "urlref": "/ns/asbestinventaris/",
-    "seealso": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-03-28",
+    "seealso": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-03-29",
     "navigation": {},
-    "dummy": 8
+    "dummy": 9
   }
 ]
