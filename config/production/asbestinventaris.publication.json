@@ -7,13 +7,13 @@
     "filename": "config/im-asbestinventaris.json",
     "navigation": {},
     "examples" : true,
-    "dummy": 4
+    "dummy": 5
   },
   {
     "urlref": "/doc/implementatiemodel/asbestinventaris/",
     "seealso": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-03-27",
     "navigation": {},
-    "dummy": 4
+    "dummy": 5
   },
   {
     "urlref": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-03-27",
@@ -22,12 +22,12 @@
     "name": "asbestinventaris",
     "filename": "config/voc-asbestinventaris.json",
     "navigation": {},
-    "dummy": 4
+    "dummy": 5
   },
   {
     "urlref": "/ns/asbestinventaris/",
     "seealso": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-03-27",
     "navigation": {},
-    "dummy": 4
+    "dummy": 5
   }
 ]
