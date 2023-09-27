@@ -5,11 +5,13 @@
    "branchtag" : "main",
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {}
+   "navigation" : {},
+   "dummy": 1
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
-    "navigation": {}
+    "navigation": {},
+    "dummy": 1
   }
 ]
