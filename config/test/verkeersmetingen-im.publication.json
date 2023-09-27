@@ -5,7 +5,7 @@
    "branchtag" : "main",
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},  
+   "navigation" : {}
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
