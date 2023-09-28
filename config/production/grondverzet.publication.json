@@ -7,11 +7,11 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": geert01
+    "dummy": "geert01"
   },
   {
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": geert01
+    "dummy": "geert01"
   },
