@@ -7,13 +7,13 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert08"
+    "dummy": "geert09"
   },
   {
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert08"
+    "dummy": "geert09"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
@@ -23,12 +23,12 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert01"
+    "dummy": "geert02"
   },
   {
     "urlref": "/ns/grondverzet/grondboringen/",
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert01"
+    "dummy": "geert02"
   }
 ]
