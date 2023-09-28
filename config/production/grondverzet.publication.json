@@ -10,9 +10,25 @@
     "dummy": "geert08"
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/grondboringen",
+    "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert08"
+  },
+   {
+    "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-grondboringen-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples" : false,
+    "dummy": "geert01"
+  },
+  {
+    "urlref": "/ns/grondverzet/grondboringen/",
+    "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert01"
   }
 ]
