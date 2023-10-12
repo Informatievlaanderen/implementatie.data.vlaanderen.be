@@ -13,5 +13,20 @@
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
     "dummy": "03"
-  }
+  },
+{
+   "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
+   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+   "branchtag" : "main",
+   "name" : "Verkeersmetingen-im-voc",
+   "filename" : "config/verkeersmetingen-im-voc.json",
+   "navigation" : {},
+   "dummy": "01"
+},
+{
+    "urlref": "/ns/vsds-verkeersmetingen/",
+    "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "navigation": {},
+    "dummy": "01"
+  },   
 ]
