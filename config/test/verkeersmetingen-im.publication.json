@@ -6,12 +6,12 @@
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": 2
+   "dummy": 03
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": 2
+    "dummy": 03
   }
 ]
