@@ -19,7 +19,7 @@
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
    "branchtag" : "main",
    "name" : "Verkeersmetingen-im-voc",
-   "filename" : "config/verkeersmetingen-im-voc.json",
+   "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
    "dummy": "02"
 },
