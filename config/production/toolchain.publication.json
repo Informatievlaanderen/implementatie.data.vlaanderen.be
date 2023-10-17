@@ -7,7 +7,7 @@
     "filename": "config/dataspecification.json",
     "navigation": {},
     "examples" : true,
-    "dummy": 5
+    "dummy": 6
   },
   {
     "urlref": "/doc/implementatiemodel/toolchain/",
