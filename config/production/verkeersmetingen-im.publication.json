@@ -6,13 +6,13 @@
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "08"
+   "dummy": "09"
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "05"
+    "dummy": "06"
   },
 {
    "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
@@ -21,12 +21,12 @@
    "name" : "Verkeersmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "05"
+   "dummy": "06"
 },
 {
     "urlref": "/ns/vsds-verkeersmetingen/",
     "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "05"
+    "dummy": "06"
   }   
 ]
