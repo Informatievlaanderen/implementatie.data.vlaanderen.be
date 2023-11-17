@@ -21,12 +21,12 @@
    "name" : "Verkeersmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "14"
+   "dummy": "15"
 },
 {
     "urlref": "/ns/vsds-verkeersmetingen/",
     "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "14"
+    "dummy": "15"
   }   
 ]
