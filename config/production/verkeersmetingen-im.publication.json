@@ -40,13 +40,13 @@
    "name" : "Verkeersmetingen-im-verzameling",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "01"
+   "dummy": "02"
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/",
     "seealso": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
     "navigation": {},
-    "dummy": "01"
+    "dummy": "02"
   },
 {
    "urlref": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
