@@ -28,5 +28,42 @@
     "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
     "dummy": "05"
+  }   ,
+
+
+
+   
+   {
+   "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+   "branchtag" : "main",
+   "name" : "Verkeersmetingen-im-verzameling",
+   "filename" : "config/verkeersmetingen-im.json",
+   "navigation" : {},
+   "dummy": "01"
+},
+{
+    "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/",
+    "seealso": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "navigation": {},
+    "dummy": "01"
+  },
+{
+   "urlref": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+   "branchtag" : "main",
+   "name" : "Verkeersmetingen-im-voc-verzameling",
+   "filename" : "config/verkeersmetingen-im.json",
+   "navigation" : {},
+   "dummy": "01"
+},
+{
+    "urlref": "/ns/vsds-verkeersmetingverzameling/",
+    "seealso": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "navigation": {},
+    "dummy": "01"
   }   
+
+
+   
 ]
