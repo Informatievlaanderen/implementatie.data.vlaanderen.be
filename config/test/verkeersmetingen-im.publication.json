@@ -6,13 +6,13 @@
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "15"
+   "dummy": "16"
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "13"
+    "dummy": "14"
   },
 {
    "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
@@ -21,13 +21,13 @@
    "name" : "Verkeersmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "13"
+   "dummy": "14"
 },
 {
     "urlref": "/ns/vsds-verkeersmetingen/",
     "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "07"
+    "dummy": "08"
   }   ,
 
 
@@ -40,13 +40,13 @@
    "name" : "Verkeersmetingen-im-verzameling",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "04"
+   "dummy": "05"
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/",
     "seealso": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
     "navigation": {},
-    "dummy": "04"
+    "dummy": "05"
   },
 {
    "urlref": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
@@ -55,13 +55,13 @@
    "name" : "Verkeersmetingen-im-voc-verzameling",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "03"
+   "dummy": "04"
 },
 {
     "urlref": "/ns/vsds-verkeersmetingverzameling/",
     "seealso": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
     "navigation": {},
-    "dummy": "03"
+    "dummy": "04"
   }   
 
 
