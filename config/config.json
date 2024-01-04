@@ -24,7 +24,7 @@
 	  "parameters-old": ""
   },
   "jsonldgenerator" : {
-	  "parameters" : "-d -l label"
+	  "parameters" : "-c -l label"
   }
   }
 }
