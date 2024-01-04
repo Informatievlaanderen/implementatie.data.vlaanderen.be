@@ -23,7 +23,7 @@
 	  "parameters": "-m individual -c 'uniqueLanguages' -c 'nodeKind'",
 	  "parameters-old": ""
   },
-  "jsonldgenerator" : {
+  "contextgenerator" : {
 	  "parameters" : "-c -l label"
   }
 }
