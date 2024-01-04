@@ -36,9 +36,9 @@ generator_parameters() {
     #   3. otherwise empty string
     #
     COMMAND=$(echo '.'${GENERATOR}'.parameters' )
-    PARAMETERS=$(jq -r '.shaclgenerator.parameters' ${JSONI})
+    PARAMETERS=$(jq -r ${COMMAND} ${JSONI})
     if [ "${PARAMETERS}" == "null"  ]  ; then 
-        PARAMETERS=$(jq -r '.shaclgenerator.parameters '  ${CONFIGDIR}/config.json)
+        PARAMETERS=$(jq -r  ${COMMAND} ${CONFIGDIR}/config.json)
     fi 
     if [ "${PARAMETERS}" == "null"  ] || [ -z "${PARAMETERS}" ]  ; then 
         PARAMETERS=""
@@ -282,8 +282,8 @@ render_context() { # SLINE TLINE JSON
 	
         MERGEDJSONLD=${RLINE}/translation/${LANGUAGEFILENAMEJSONLD}
 
-        echo "RENDER-DETAILS(context-language-aware): node /app/json-ld-generator2.js -c -l label -i ${MERGEDJSONLD} -o ${TLINE}/context/${OUTFILELANGUAGE} -m ${GOALLANGUAGE}"
-        if ! node /app/json-ld-generator2.js -c -l label -i ${MERGEDJSONLD} -o ${TLINE}/context/${OUTFILELANGUAGE} -m ${GOALLANGUAGE}; then
+        echo "RENDER-DETAILS(context-language-aware): node /app/json-ld-generator2.js ${PARAMETERS}  -i ${MERGEDJSONLD} -o ${TLINE}/context/${OUTFILELANGUAGE} -m ${GOALLANGUAGE}"
+        if ! node /app/json-ld-generator2.js ${PARAMETERS}  -i ${MERGEDJSONLD} -o ${TLINE}/context/${OUTFILELANGUAGE} -m ${GOALLANGUAGE}; then
             echo "RENDER-DETAILS(context-language-aware): See XXX for more details, Rendering failed"
             execution_strickness
         else
@@ -343,7 +343,7 @@ render_shacl_languageaware() {
     local PRIMELANGUAGE=${7-false}
 
 
-
+${PARAMETERS} 
     FILENAME=$(jq -r ".name" ${JSONI})
     COMMANDJSONLD=$(echo '.[].translation | .[] | select(.language | contains("'${GOALLANGUAGE}'")) | .mergefile')
     LANGUAGEFILENAMEJSONLD=$(jq -r "${COMMANDJSONLD}" ${SLINE}/.names.json)
