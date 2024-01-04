@@ -7,8 +7,7 @@
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
    "contextgenerator": {
-       "parameters": "",
-       "parameters-old": "-d -l label"
+       "parameters": "-d -l label"
    },
    "dummy": "18"
 },
