@@ -1,0 +1,33 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/toolchain/ontwerpstandaard/2023-09-22",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-toolchain",
+    "branchtag": "main",
+    "name": "dataspecification",
+    "filename": "config/dataspecification.json",
+    "navigation": {},
+    "examples" : true,
+    "dummy": 7
+  },
+  {
+    "urlref": "/doc/implementatiemodel/toolchain/",
+    "seealso": "/doc/implementatiemodel/toolchain/ontwerpstandaard/2023-09-22",
+    "navigation": {},
+    "dummy": 4
+  },
+  {
+    "urlref": "/doc/vocabularium/OSLO-toolchain/ontwerpstandaard/2023-09-22",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-toolchain",
+    "branchtag": "main",
+    "name": "vocabularium",
+    "filename": "config/vocabularium.json",
+    "navigation": {},
+    "dummy": 4
+  },
+  {
+    "urlref": "/ns/OSLO-toolchain/",
+    "seealso": "/doc/vocabularium/OSLO-toolchain/ontwerpstandaard/2023-09-22",
+    "navigation": {},
+    "dummy": 4
+  }
+]

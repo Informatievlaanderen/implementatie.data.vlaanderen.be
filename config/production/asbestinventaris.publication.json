@@ -1,0 +1,33 @@
+[
+  {
+    "urlref": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-asbestinventaris",
+    "branchtag": "main",
+    "name": "asbestinventaris",
+    "filename": "config/im-asbestinventaris.json",
+    "navigation": {},
+    "examples" : true,
+    "dummy": 4
+  },
+  {
+    "urlref": "/doc/implementatiemodel/asbestinventaris/",
+    "seealso": "/doc/implementatiemodel/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "navigation": {},
+    "dummy": 4
+  },
+  {
+    "urlref": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-asbestinventaris",
+    "branchtag": "main",
+    "name": "asbestinventaris",
+    "filename": "config/voc-asbestinventaris.json",
+    "navigation": {},
+    "dummy": 4
+  },
+  {
+    "urlref": "/ns/asbestinventaris/",
+    "seealso": "/doc/vocabularium/asbestinventaris/ontwerpstandaard/2023-09-22",
+    "navigation": {},
+    "dummy": 4
+  }
+]
