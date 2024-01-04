@@ -6,6 +6,9 @@
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
+   "jsonldgenerator": {
+       "parameters": "-d -l label"
+   },
    "dummy": "19"
 },
 {
