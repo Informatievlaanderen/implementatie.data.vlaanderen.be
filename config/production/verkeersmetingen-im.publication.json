@@ -6,7 +6,10 @@
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "19"
+   "contextgenerator": {
+       "parameters": "-d -l label"
+   },
+   "dummy": "18"
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
