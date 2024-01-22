@@ -2,7 +2,7 @@
  {
         "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondverzet/grondboring/2024-01-22",
         "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
-        "branchtag": "master",
+        "branchtag": "main",
         "name": "grondverzet-grondboringen-im",
         "filename": "config/grondverzet.json",
         "navigation":
