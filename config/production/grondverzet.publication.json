@@ -8,6 +8,7 @@
 	"dummy": "13",
         "navigation":
         {
-        }
+        },
+	"examples" : true
     } 
 ]
