@@ -6,7 +6,7 @@
     "name": "grondverzet-grondboringen-im",
     "filename": "config/grondverzet-test.json",
     "navigation": {},
-    "examples" : false,
+    "examples" : true,
     "dummy": "geert20"
   },
   {
