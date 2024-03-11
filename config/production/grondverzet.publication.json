@@ -5,11 +5,10 @@
         "branchtag": "main",
         "name": "grondverzet-grondboringen-im",
         "filename": "config/grondverzet-test.json",
-	"dummy": "14",
+	"dummy": "15",
         "navigation":
         {
         },
-	"examples" : false,
-	"shaclgenerator": { "parameters": "" }
+	"examples" : false
     } 
 ]
