@@ -2,35 +2,35 @@
 {
    "urlref": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-28112023",
+   "branchtag" : "publicatie-13022024",
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
    "contextgenerator": {
        "parameters": "-d -l label"
    },
-   "dummy": "18"
+   "dummy": "21"
 },
 {
     "urlref": "/doc/implementatiemodel/verkeersmetingen/",
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "16"
+    "dummy": "19"
   },
 {
    "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-28112023",
+   "branchtag" : "publicatie-13022024",
    "name" : "Verkeersmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "19"
+   "dummy": "22"
 },
 {
     "urlref": "/ns/vsds-verkeersmetingen/",
     "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "19"
+    "dummy": "22"
   },
 
    
