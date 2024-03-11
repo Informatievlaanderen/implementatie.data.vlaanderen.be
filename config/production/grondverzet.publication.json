@@ -31,5 +31,17 @@
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert14"
-  }
+  },
+  {
+        "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondverzet/grondboring/2024-01-22",
+        "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+        "branchtag": "main",
+        "name": "grondverzet-grondboringen-im",
+        "filename": "config/grondverzet.json",
+	"dummy": "13",
+        "navigation":
+        {
+        },
+	"examples" : true
+    } 
 ]
