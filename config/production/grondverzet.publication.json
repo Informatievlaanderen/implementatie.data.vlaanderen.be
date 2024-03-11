@@ -7,7 +7,10 @@
     "filename": "config/grondverzet-test.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert22"
+    "dummy": "geert22",
+    "shaclgenerator" : { 
+	    "parameters" : ""
+    }
   },
   {
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
