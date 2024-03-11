@@ -9,6 +9,7 @@
         "navigation":
         {
         },
-	"examples" : false
+	"examples" : false,
+	"shaclgenerator": { "parameters": "" }
     } 
 ]
