@@ -20,7 +20,7 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-imvoc",
-    "filename": "config/grondverzet.json",
+    "filename": "config/grondverzet-test.json",
     "navigation": {},
     "examples" : false,
     "dummy": "geert14"
