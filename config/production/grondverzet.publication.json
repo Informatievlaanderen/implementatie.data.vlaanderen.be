@@ -7,16 +7,13 @@
     "filename": "config/grondverzet-test.json",
     "navigation": {},
     "examples" : false,
-    "shaclgenerator": {
-    "parameters": ""
-    },
-    "dummy": "geert19"
+    "dummy": "geert20"
   },
   {
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert19"
+    "dummy": "geert20"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
