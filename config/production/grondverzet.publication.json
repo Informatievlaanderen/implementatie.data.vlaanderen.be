@@ -23,12 +23,14 @@
     "filename": "config/grondverzet-test.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert14"
+    "dummy": "geert14",
+    "disabled" : true
   },
   {
     "urlref": "/ns/grondverzet/grondboringen/",
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert14"
+    "dummy": "geert14",
+    "disabled" : true
   }
 ]
