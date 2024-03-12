@@ -4,10 +4,10 @@
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-im",
-    "filename": "config/grondverzet-test.json",
+    "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert23",
+    "dummy": "geert24",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -16,24 +16,24 @@
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert20"
+    "dummy": "geert24"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-imvoc",
-    "filename": "config/grondverzet-test.json",
+    "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert14",
+    "dummy": "geert15",
     "disabled" : true
   },
   {
     "urlref": "/ns/grondverzet/grondboringen/",
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert14",
+    "dummy": "geert15",
     "disabled" : true
   }
 ]
