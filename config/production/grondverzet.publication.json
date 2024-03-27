@@ -35,5 +35,42 @@
     "navigation": {},
     "dummy": "geert16",
     "disabled" : true
+  },
+	 {
+    "urlref": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-agents-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples" : true,
+    "dummy": "geert01",
+    "shaclgenerator" : { 
+	    "parameters" : ""
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/grondverzet/agents/",
+    "seealso": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert01"
+  },
+   {
+    "urlref": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-agents-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples" : false,
+    "dummy": "geert01",
+    "disabled" : true
+  },
+  {
+    "urlref": "/ns/grondverzet/agents/",
+    "seealso": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert01",
+    "disabled" : true
   }
 ]
