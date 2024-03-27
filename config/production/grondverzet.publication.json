@@ -7,7 +7,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert26",
+    "dummy": "geert27",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -16,7 +16,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert26"
+    "dummy": "geert27"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
@@ -44,7 +44,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert01",
+    "dummy": "geert02",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -53,7 +53,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/agents/",
     "seealso": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert01"
+    "dummy": "geert02"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
