@@ -7,7 +7,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert28",
+    "dummy": "geert29",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -16,7 +16,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert28"
+    "dummy": "geert29"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
