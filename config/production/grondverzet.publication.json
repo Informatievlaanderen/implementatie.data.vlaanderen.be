@@ -103,7 +103,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert01",
+    "dummy": "geert02",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -112,6 +112,6 @@
     "urlref": "/doc/implementatiemodel/grondverzet/opdrachten/",
     "seealso": "/doc/implementatiemodel/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert01"
+    "dummy": "geert02"
   }	
 ]
