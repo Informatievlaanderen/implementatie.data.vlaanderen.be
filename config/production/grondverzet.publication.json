@@ -9,7 +9,7 @@
     "examples" : true,
     "dummy": "geert34",
     "contextgenerator" : { 
-	    "parameters" : ""
+	    "parameters" : "-d -l label"
     },
     "shaclgenerator" : { 
 	    "parameters" : ""
