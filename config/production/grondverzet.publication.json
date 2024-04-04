@@ -7,7 +7,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert34",
+    "dummy": "geert35",
     "contextgenerator" : { 
 	    "parameters" : "-d -l label"
     },
@@ -19,7 +19,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert33"
+    "dummy": "geert35"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
@@ -29,14 +29,14 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert16",
+    "dummy": "geert17",
     "disabled" : true
   },
   {
     "urlref": "/ns/grondverzet/grondboringen/",
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert16",
+    "dummy": "geert17",
     "disabled" : true
   },
 	 {
@@ -47,7 +47,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert02",
+    "dummy": "geert03",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -56,7 +56,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/agents/",
     "seealso": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert02"
+    "dummy": "geert03"
   },
   {
     "urlref": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
@@ -66,14 +66,14 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert01",
+    "dummy": "geert02",
     "disabled" : true
   },
   {
     "urlref": "/ns/grondverzet/agents/",
     "seealso": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert01",
+    "dummy": "geert02",
     "disabled" : true
   },
   {
@@ -84,7 +84,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert01",
+    "dummy": "geert02",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -93,7 +93,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/locaties/",
     "seealso": "/doc/implementatiemodel/grondverzet/locaties/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert01"
+    "dummy": "geert02"
   },
   {
     "urlref": "/doc/implementatiemodel/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
@@ -103,7 +103,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert02",
+    "dummy": "geert03",
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -112,6 +112,6 @@
     "urlref": "/doc/implementatiemodel/grondverzet/opdrachten/",
     "seealso": "/doc/implementatiemodel/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert02"
+    "dummy": "geert03"
   }	
 ]
