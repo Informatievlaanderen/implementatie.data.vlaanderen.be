@@ -7,7 +7,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert35",
+    "dummy": "geert36",
     "contextgenerator" : { 
 	    "parameters" : "-d -l label"
     },
@@ -19,7 +19,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
     "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert35"
+    "dummy": "geert36"
   },
    {
     "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
