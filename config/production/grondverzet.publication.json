@@ -29,13 +29,15 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert18"
+    "dummy": "geert18",
+    "disabled":true
   },
   {
     "urlref": "/ns/grondverzet/grondboringen/",
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert18"
+    "dummy": "geert18",
+    "disabled":true
   },
 	 {
     "urlref": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
@@ -45,7 +47,10 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert03",
+    "dummy": "geert04",
+    "contextgenerator" : { 
+    "parameters" : "-d -l label"
+    },
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -54,7 +59,7 @@
     "urlref": "/doc/implementatiemodel/grondverzet/agents/",
     "seealso": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert03"
+    "dummy": "geert04"
   },
   {
     "urlref": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
@@ -64,15 +69,13 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert02",
-    "disabled" : true
+    "dummy": "geert02"
   },
   {
     "urlref": "/ns/grondverzet/agents/",
     "seealso": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert02",
-    "disabled" : true
+    "dummy": "geert02"
   },
   {
     "urlref": "/doc/implementatiemodel/grondverzet/locaties/ontwerpstandaard/2023-10-01",
@@ -83,6 +86,9 @@
     "navigation": {},
     "examples" : true,
     "dummy": "geert02",
+    "contextgenerator" : { 
+    "parameters" : "-d -l label"
+    },
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -90,6 +96,22 @@
   {
     "urlref": "/doc/implementatiemodel/grondverzet/locaties/",
     "seealso": "/doc/implementatiemodel/grondverzet/locaties/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert02"
+  },
+  {
+    "urlref": "/doc/vocabularium/grondverzet/locaties/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-locaties-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples" : false,
+    "dummy": "geert02"
+  },
+  {
+    "urlref": "/ns/grondverzet/locaties/",
+    "seealso": "/doc/vocabularium/grondverzet/locaties/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert02"
   },
@@ -102,6 +124,9 @@
     "navigation": {},
     "examples" : true,
     "dummy": "geert03",
+    "contextgenerator" : { 
+    "parameters" : "-d -l label"
+    },
     "shaclgenerator" : { 
 	    "parameters" : ""
     }
@@ -111,5 +136,21 @@
     "seealso": "/doc/implementatiemodel/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert03"
-  }	
+  },
+  {
+    "urlref": "/doc/vocabularium/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-opdrachten-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples" : false,
+    "dummy": "geert02"
+  },
+  {
+    "urlref": "/ns/grondverzet/opdrachten/",
+    "seealso": "/doc/vocabularium/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert02"
+  },
 ]
