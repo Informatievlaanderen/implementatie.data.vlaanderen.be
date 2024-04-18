@@ -1,6 +1,6 @@
 [
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-im",
@@ -16,13 +16,13 @@
     }	  
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
-    "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert37"
   },
    {
-    "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-imvoc",
@@ -33,14 +33,14 @@
     "disabled":true
   },
   {
-    "urlref": "/ns/grondverzet/grondboringen/",
-    "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/ns/bodem-en-ondergrond/grondboringen/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert18",
     "disabled":true
   },
 	 {
-    "urlref": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-agents-im",
@@ -56,13 +56,13 @@
     }
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/agents/",
-    "seealso": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert04"
   },
   {
-    "urlref": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-agents-imvoc",
@@ -72,13 +72,13 @@
     "dummy": "geert02"
   },
   {
-    "urlref": "/ns/grondverzet/agents/",
-    "seealso": "/doc/vocabularium/grondverzet/agents/ontwerpstandaard/2023-10-01",
+    "urlref": "/ns/bodem-en-ondergrond/agents/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert02"
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/locaties/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-locaties-im",
@@ -94,13 +94,13 @@
     }
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/locaties/",
-    "seealso": "/doc/implementatiemodel/grondverzet/locaties/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert02"
   },
   {
-    "urlref": "/doc/vocabularium/grondverzet/locaties/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-locaties-imvoc",
@@ -110,13 +110,13 @@
     "dummy": "geert02"
   },
   {
-    "urlref": "/ns/grondverzet/locaties/",
-    "seealso": "/doc/vocabularium/grondverzet/locaties/ontwerpstandaard/2023-10-01",
+    "urlref": "/ns/bodem-en-ondergrond/locaties/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert02"
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-opdrachten-im",
@@ -132,13 +132,13 @@
     }
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/opdrachten/",
-    "seealso": "/doc/implementatiemodel/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert03"
   },
   {
-    "urlref": "/doc/vocabularium/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-opdrachten-imvoc",
@@ -148,8 +148,8 @@
     "dummy": "geert03"
   },
   {
-    "urlref": "/ns/grondverzet/opdrachten/",
-    "seealso": "/doc/vocabularium/grondverzet/opdrachten/ontwerpstandaard/2023-10-01",
+    "urlref": "/ns/bodem-en-ondergrond/opdrachten/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
     "dummy": "geert03"
   }
