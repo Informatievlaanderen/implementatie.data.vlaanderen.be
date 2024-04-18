@@ -29,15 +29,13 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert18",
-	   "disabled":true
+    "dummy": "geert18"
   },
   {
     "urlref": "/ns/grondverzet/grondboringen/",
     "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert18",
-	   "disabled":true
+    "dummy": "geert18"
   },
 	 {
     "urlref": "/doc/implementatiemodel/grondverzet/agents/ontwerpstandaard/2023-10-01",
