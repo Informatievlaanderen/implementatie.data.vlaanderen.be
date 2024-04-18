@@ -7,7 +7,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert37",
+    "dummy": "geert38",
     "contextgenerator" : { 
 	    "parameters" : "-d -l label"
     },
@@ -19,7 +19,7 @@
     "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/",
     "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert37"
+    "dummy": "geert38"
   },
    {
     "urlref": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
@@ -47,7 +47,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert04",
+    "dummy": "geert05",
     "contextgenerator" : { 
     "parameters" : "-d -l label"
     },
@@ -59,7 +59,7 @@
     "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/",
     "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert04"
+    "dummy": "geert05"
   },
   {
     "urlref": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
@@ -69,13 +69,15 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert02"
+    "dummy": "geert02",
+    "disabled":true
   },
   {
     "urlref": "/ns/bodem-en-ondergrond/agents/",
     "seealso": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert02"
+    "dummy": "geert02",
+    "disabled":true
   },
   {
     "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
@@ -85,7 +87,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert02",
+    "dummy": "geert04",
     "contextgenerator" : { 
     "parameters" : "-d -l label"
     },
@@ -97,7 +99,7 @@
     "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/",
     "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert02"
+    "dummy": "geert04"
   },
   {
     "urlref": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
@@ -107,13 +109,13 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert02"
+    "dummy": "geert03"
   },
   {
     "urlref": "/ns/bodem-en-ondergrond/locaties/",
     "seealso": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert02"
+    "dummy": "geert03"
   },
   {
     "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
@@ -123,7 +125,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert03",
+    "dummy": "geert04",
     "contextgenerator" : { 
     "parameters" : "-d -l label"
     },
@@ -135,7 +137,7 @@
     "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/",
     "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert03"
+    "dummy": "geert04"
   },
   {
     "urlref": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
@@ -145,12 +147,12 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : false,
-    "dummy": "geert03"
+    "dummy": "geert04"
   },
   {
     "urlref": "/ns/bodem-en-ondergrond/opdrachten/",
     "seealso": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert03"
+    "dummy": "geert04"
   }
 ]
