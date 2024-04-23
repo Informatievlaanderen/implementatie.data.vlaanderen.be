@@ -3,7 +3,7 @@
   "otherLanguages": [
     "en", "fr", "de"
   ],
-  "hostname": "https://implementatie.data.vlaanderen.be/",
+  "hostname": "https://implementatie.data.vlaanderen.be",
   "domain": "implementatie.data.vlaanderen.be",
   "publicationpoints" : ["production"],
   "generatedrepository" : {
