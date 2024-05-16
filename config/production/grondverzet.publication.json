@@ -7,7 +7,7 @@
     "filename": "config/grondverzet.json",
     "navigation": {},
     "examples" : true,
-    "dummy": "geert44",
+    "dummy": "geert45",
     "contextgenerator" : { 
 	    "parameters" : "-d -l label"
     },
