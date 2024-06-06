@@ -33,6 +33,47 @@
     "dummy": "22"
   },
 
+
+
+
+{
+   "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+   "branchtag" : "publicatie-20240606",
+   "name" : "kruispuntmeting-im",
+   "filename" : "config/verkeersmetingen-im.json",
+   "navigation" : {},
+   "contextgenerator": {
+       "parameters": "-d -l label"
+   },
+   "dummy": "1"
+},
+{
+    "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
+    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+    "navigation": {},
+    "dummy": "1"
+  },
+{
+   "urlref": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+   "branchtag" : "publicatie-20240606",
+   "name" : "kruispuntmetingen-im-voc",
+   "filename" : "config/verkeersmetingen-im.json",
+   "navigation" : {},
+   "dummy": "1"
+},
+{
+    "urlref": "/ns/kruispuntmetingen/",
+    "seealso": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+    "navigation": {},
+    "dummy": "1"
+},
+
+
+
+
+   
    
    {
    "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
