@@ -53,22 +53,8 @@
     "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
     "navigation": {},
     "dummy": "2"
-  },
-{
-   "urlref": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-06",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-20240606",
-   "name" : "kruispuntmetingen-im-voc",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "dummy": "2"
-},
-{
-    "urlref": "/ns/kruispuntmetingen/",
-    "seealso": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-06",
-    "navigation": {},
-    "dummy": "2"
-},
+  }
+
 
 
 
