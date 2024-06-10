@@ -40,20 +40,15 @@
    "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
    "branchtag" : "publicatie-20240606",
-   "name" : "kruispuntmeting-im",
+   "name" : "kruispuntmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
    "contextgenerator": {
        "parameters": "-d -l label"
    },
-   "dummy": "3"
+   "dummy": "4"
 },
-{
-    "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
-    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
-    "navigation": {},
-    "dummy": "3"
-  },
+
 
 
 
