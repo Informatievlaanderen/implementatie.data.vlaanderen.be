@@ -32,6 +32,24 @@
 
 
 
+
+{
+   "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
+   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+   "branchtag" : "main",
+   "name" : "kruispuntmetingen-im",
+   "filename" : "config/verkeersmetingen-im.json",
+   "navigation" : {},
+   "dummy": "1"
+},
+{
+    "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
+    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2023-09-27",
+    "navigation": {},
+    "dummy": "1"
+  },
+
+
    
    {
    "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
