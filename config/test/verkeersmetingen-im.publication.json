@@ -21,7 +21,6 @@
    "name" : "Verkeersmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "disable": "true",
    "dummy": "14"
 },
 {
@@ -42,12 +41,14 @@
    "name" : "kruispuntmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
+   "disable": "true",
    "dummy": "2"
 },
 {
     "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
     "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
     "navigation": {},
+    "disable": "true",
     "dummy": "2"
   },
 
