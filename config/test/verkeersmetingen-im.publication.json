@@ -40,13 +40,13 @@
    "name" : "kruispuntmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "1"
+   "dummy": "2"
 },
 {
     "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
-    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2023-09-27",
+    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
     "navigation": {},
-    "dummy": "1"
+    "dummy": "2"
   },
 
 
