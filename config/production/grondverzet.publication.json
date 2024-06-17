@@ -1,47 +1,158 @@
 [
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-im",
-    "filename": "config/grondverzet-test.json",
+    "filename": "config/grondverzet.json",
     "navigation": {},
-    "examples" : false,
-    "shaclgenerator": { "parameters": "" },
-    "dummy": "geert20"
+    "examples": true,
+    "dummy": "geert46",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    }
   },
   {
-    "urlref": "/doc/implementatiemodel/grondverzet/grondboringen/",
-    "seealso": "/doc/implementatiemodel/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert20"
+    "dummy": "geert46"
   },
-   {
-    "urlref": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
     "branchtag": "main",
     "name": "grondverzet-grondboringen-imvoc",
     "filename": "config/grondverzet.json",
     "navigation": {},
-    "examples" : false,
-    "dummy": "geert14"
+    "examples": false,
+    "dummy": "geert19",
+    "disabled": true
   },
   {
-    "urlref": "/ns/grondverzet/grondboringen/",
-    "seealso": "/doc/vocabularium/grondverzet/grondboringen/ontwerpstandaard/2023-10-01",
+    "urlref": "/ns/bodem-en-ondergrond/grondboringen/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/grondboringen/ontwerpstandaard/2023-10-01",
     "navigation": {},
-    "dummy": "geert14"
+    "dummy": "geert19",
+    "disabled": true
   },
   {
-        "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/grondverzet/grondboring/2024-01-22",
-        "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
-        "branchtag": "main",
-        "name": "grondverzet-grondboringen-im",
-        "filename": "config/grondverzet.json",
-	"dummy": "13",
-        "navigation":
-        {
-        },
-	"examples" : true
-    } 
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-agents-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert10",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/agents/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert10"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-agents-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert02",
+    "disabled": true
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/agents/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/agents/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert02",
+    "disabled": true
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-locaties-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert09",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-locaties-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert09"
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/locaties/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/locaties/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-opdrachten-im",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": true,
+    "dummy": "geert09",
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "shaclgenerator": {
+      "parameters": ""
+    }
+  },
+  {
+    "urlref": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/",
+    "seealso": "/doc/implementatiemodel/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09"
+  },
+  {
+    "urlref": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-IM-grondverzet",
+    "branchtag": "main",
+    "name": "grondverzet-opdrachten-imvoc",
+    "filename": "config/grondverzet.json",
+    "navigation": {},
+    "examples": false,
+    "dummy": "geert09"
+  },
+  {
+    "urlref": "/ns/bodem-en-ondergrond/opdrachten/",
+    "seealso": "/doc/vocabularium/bodem-en-ondergrond/opdrachten/ontwerpstandaard/2023-10-01",
+    "navigation": {},
+    "dummy": "geert09"
+  }
 ]
