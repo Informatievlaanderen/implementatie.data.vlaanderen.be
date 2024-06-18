@@ -37,37 +37,37 @@
 
 
 {
-   "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+   "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-20240606",
+   "branchtag" : "publicatie-20240617",
    "name" : "kruispuntmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
    "contextgenerator": {
        "parameters": "-d -l label"
    },
-   "dummy": "8"
+   "dummy": "9"
 },
 {
     "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
-    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+    "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
     "navigation": {},
-    "dummy": "8"
+    "dummy": "9"
   },
 {
-   "urlref": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+   "urlref": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-17",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-20240606",
+   "branchtag" : "publicatie-20240617",
    "name" : "kruispuntmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
-   "dummy": "8"
+   "dummy": "9"
 },
 {
     "urlref": "/ns/vsds-kruispuntmetingen/",
-    "seealso": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-06",
+    "seealso": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-17",
     "navigation": {},
-    "dummy": "8"
+    "dummy": "9"
   },
 
 
