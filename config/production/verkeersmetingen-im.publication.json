@@ -1,108 +1,100 @@
 [
-{
-   "urlref": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-20241023",
-   "name" : "Verkeersmetingen-im",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "contextgenerator": {
-       "parameters": "-d -l label"
-   },
-   "dummy": "23"
-},
-{
-    "urlref": "/doc/implementatiemodel/verkeersmetingen/",
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+    "branchtag": "publicatie-20241023",
+    "name": "Verkeersmetingen-im",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "dummy": "24"
+  },
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingen",
     "seealso": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "23"
+    "dummy": "24"
   },
-{
-   "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-20241023",
-   "name" : "Verkeersmetingen-im-voc",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "dummy": "23"
-},
-{
-    "urlref": "/ns/vsds-verkeersmetingen/",
+  {
+    "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+    "branchtag": "publicatie-20241023",
+    "name": "Verkeersmetingen-im-voc",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "24"
+  },
+  {
+    "urlref": "/ns/vsds-verkeersmetingen",
     "seealso": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
     "navigation": {},
-    "dummy": "23"
+    "dummy": "24"
   },
 
-
-
-
-{
-   "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "production-02072024",
-   "name" : "kruispuntmetingen-im",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "contextgenerator": {
-       "parameters": "-d -l label"
-   },
-   "dummy": "10"
-},
-{
+  {
+    "urlref": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+    "branchtag": "production-02072024",
+    "name": "kruispuntmetingen-im",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "contextgenerator": {
+      "parameters": "-d -l label"
+    },
+    "dummy": "10"
+  },
+  {
     "urlref": "/doc/implementatiemodel/kruispuntmetingen/",
     "seealso": "/doc/implementatiemodel/kruispuntmetingen/ontwerpstandaard/2024-06-17",
     "navigation": {},
     "dummy": "10"
   },
-{
-   "urlref": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-17",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "production-02072024",
-   "name" : "kruispuntmetingen-im-voc",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "dummy": "10"
-},
-{
+  {
+    "urlref": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-17",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+    "branchtag": "production-02072024",
+    "name": "kruispuntmetingen-im-voc",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "10"
+  },
+  {
     "urlref": "/ns/vsds-kruispuntmetingen/",
     "seealso": "/doc/vocabularium/kruispuntmetingen/ontwerpstandaard/2024-06-17",
     "navigation": {},
     "dummy": "10"
   },
 
-
-
-
-   
-   
-   {
-   "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-28112023",
-   "name" : "Verkeersmetingen-im-verzameling",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "dummy": "07"
-},
-{
+  {
+    "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+    "branchtag": "publicatie-28112023",
+    "name": "Verkeersmetingen-im-verzameling",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "07"
+  },
+  {
     "urlref": "/doc/implementatiemodel/verkeersmetingverzameling/",
     "seealso": "/doc/implementatiemodel/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
     "navigation": {},
     "dummy": "07"
   },
-{
-   "urlref": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
-   "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-28112023",
-   "name" : "Verkeersmetingen-im-voc-verzameling",
-   "filename" : "config/verkeersmetingen-im.json",
-   "navigation" : {},
-   "dummy": "06"
-},
-{
+  {
+    "urlref": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
+    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
+    "branchtag": "publicatie-28112023",
+    "name": "Verkeersmetingen-im-voc-verzameling",
+    "filename": "config/verkeersmetingen-im.json",
+    "navigation": {},
+    "dummy": "06"
+  },
+  {
     "urlref": "/ns/vsds-verkeersmetingverzameling/",
     "seealso": "/doc/vocabularium/verkeersmetingverzameling/ontwerpstandaard/2023-11-22",
     "navigation": {},
     "dummy": "06"
-  }   
+  }
 ]
