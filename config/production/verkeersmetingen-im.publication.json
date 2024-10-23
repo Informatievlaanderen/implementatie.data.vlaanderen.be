@@ -2,7 +2,7 @@
 {
    "urlref": "/doc/implementatiemodel/verkeersmetingen/ontwerpstandaard/2023-09-27",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-02072024",
+   "branchtag" : "publicatie-20241023",
    "name" : "Verkeersmetingen-im",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
@@ -20,7 +20,7 @@
 {
    "urlref": "/doc/vocabularium/verkeersmetingen/ontwerpstandaard/2023-09-27",
    "repository": "https://github.com/Informatievlaanderen/OSLOthema-im-verkeersmetingen",
-   "branchtag" : "publicatie-02072024",
+   "branchtag" : "publicatie-20241023",
    "name" : "Verkeersmetingen-im-voc",
    "filename" : "config/verkeersmetingen-im.json",
    "navigation" : {},
