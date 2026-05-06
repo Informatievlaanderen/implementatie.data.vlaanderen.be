@@ -1,30 +1,27 @@
 {
   "primeLanguage": "nl",
-  "otherLanguages": [
-    "en", "fr", "de"
-  ],
+  "otherLanguages": ["en", "fr", "de"],
   "hostname": "https://implementatie.data.vlaanderen.be/",
   "domain": "implementatie.data.vlaanderen.be",
-  "publicationpoints" : ["dev"],
-  "generatedrepository" : {
-	  "organisation": "informatievlaanderen",
-	  "repository" : "implementatie.data.vlaanderen.be-generated",
-	  "private" : true,
-	  "gitEmail" : "toolchain@data.vlaanderen.be",
-	  "gitUser" : "toolchain"
+  "publicationpoints": ["dev"],
+  "generatedrepository": {
+    "organisation": "informatievlaanderen",
+    "repository": "implementatie.data.vlaanderen.be-generated",
+    "private": true,
+    "gitEmail": "toolchain@data.vlaanderen.be",
+    "gitUser": "toolchain"
   },
-  "toolchainversion" : "3.1.2",
-  "toolchain" : {
-	  "strickness" : "lazy",
-	  "version": 3,
-	  "triggerall" : true
+  "toolchainversion": "3.1.2",
+  "toolchain": {
+    "strickness": "lazy",
+    "version": 3,
+    "triggerall": true
   },
-  "shaclgenerator" : {
-	  "parameters": "-m individual -c 'uniqueLanguages' -c 'nodeKind'",
-	  "parameters-old": ""
+  "shaclgenerator": {
+    "parameters": "-m individual -c 'uniqueLanguages' -c 'nodeKind'",
+    "parameters-old": ""
   },
-  "jsonldgenerator" : {
-	  "parameters" : "-c -l label"
-  }
+  "jsonldgenerator": {
+    "parameters": "-c -l label"
   }
 }
