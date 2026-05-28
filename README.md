@@ -1,3 +1,6 @@
+OUDE REPOSITORY
+Deze repository is sinds mei 2026 niet meer in gebruik en dient puur als historisch archief. Er werd een nieuwe publicatie-omgeving opgezet die sinds mei 2026 in dienst is. Deze is [https://github.com/Informatievlaanderen/implementatie.data.vlaanderen.be2](hier) terug te vinden.
+
 # OSLO-publicationenvironment-template
 This is a template for the OSLO publication environment.
 
